@@ -45,5 +45,3 @@ print mult4
 # the result also has that type; otherwise it is always a list. 
 # If function is None, the identity function is assumed, that is, 
 # all elements of iterable that are false are removed.
-#
-#
